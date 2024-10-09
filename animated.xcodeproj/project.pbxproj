@@ -33,6 +33,7 @@
 		E3841EE42CAD1A2D008F0207 /* VCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EE32CAD1A2D008F0207 /* VCard.swift */; };
 		E3841EE62CAD251E008F0207 /* HCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EE52CAD251E008F0207 /* HCard.swift */; };
 		E3841EE82CAD34FC008F0207 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EE72CAD34FC008F0207 /* HomeView.swift */; };
+		E3841EEA2CAD3EAB008F0207 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EE92CAD3EAB008F0207 /* SideMenu.swift */; };
 		E3CA07182CA413B800E7BA03 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CA07172CA413B800E7BA03 /* TabBar.swift */; };
 		E3CD46FE2C9C0664009074A5 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CD46FD2C9C0664009074A5 /* CustomTextField.swift */; };
 		E3CD47002C9C2529009074A5 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3CD46FF2C9C2529009074A5 /* Extensions.swift */; };
@@ -85,6 +86,7 @@
 		E3841EE32CAD1A2D008F0207 /* VCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCard.swift; sourceTree = "<group>"; };
 		E3841EE52CAD251E008F0207 /* HCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HCard.swift; sourceTree = "<group>"; };
 		E3841EE72CAD34FC008F0207 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E3841EE92CAD3EAB008F0207 /* SideMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
 		E3CA07172CA413B800E7BA03 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 		E3CD46FD2C9C0664009074A5 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		E3CD46FF2C9C2529009074A5 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
@@ -146,6 +148,7 @@
 				E3841EE52CAD251E008F0207 /* HCard.swift */,
 				E3841EE72CAD34FC008F0207 /* HomeView.swift */,
 				E353A27E2C995E9D00A6F9CA /* ContentView.swift */,
+				E3841EE92CAD3EAB008F0207 /* SideMenu.swift */,
 				E3CA07152CA4129700E7BA03 /* Views */,
 				E3CA07162CA412E200E7BA03 /* Styles */,
 				E353A2802C995EA000A6F9CA /* Assets.xcassets */,
@@ -383,6 +386,7 @@
 				E3841EE62CAD251E008F0207 /* HCard.swift in Sources */,
 				E353A2BB2C9960E400A6F9CA /* OnboardingView.swift in Sources */,
 				E3841EE82CAD34FC008F0207 /* HomeView.swift in Sources */,
+				E3841EEA2CAD3EAB008F0207 /* SideMenu.swift in Sources */,
 				E353A27F2C995E9D00A6F9CA /* ContentView.swift in Sources */,
 				E3841EE22CAD19A8008F0207 /* Course.swift in Sources */,
 				E3CA07182CA413B800E7BA03 /* TabBar.swift in Sources */,
