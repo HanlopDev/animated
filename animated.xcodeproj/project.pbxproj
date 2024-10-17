@@ -28,6 +28,7 @@
 		E353A2C22C997AC700A6F9CA /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E353A2BF2C997AC700A6F9CA /* Inter-SemiBold.ttf */; };
 		E353A2C52C997F9C00A6F9CA /* CustomeFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = E353A2C42C997F9C00A6F9CA /* CustomeFont.swift */; };
 		E353A2C72C9AE5B700A6F9CA /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E353A2C62C9AE5B700A6F9CA /* SignInView.swift */; };
+		E37F5B6C2CB79FE2008B8736 /* MenuRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = E37F5B6B2CB79FE2008B8736 /* MenuRow.swift */; };
 		E3841EE12CAD19A8008F0207 /* CourseSection.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EDF2CAD19A8008F0207 /* CourseSection.swift */; };
 		E3841EE22CAD19A8008F0207 /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EE02CAD19A8008F0207 /* Course.swift */; };
 		E3841EE42CAD1A2D008F0207 /* VCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3841EE32CAD1A2D008F0207 /* VCard.swift */; };
@@ -81,6 +82,7 @@
 		E353A2C32C997B7600A6F9CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		E353A2C42C997F9C00A6F9CA /* CustomeFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeFont.swift; sourceTree = "<group>"; };
 		E353A2C62C9AE5B700A6F9CA /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		E37F5B6B2CB79FE2008B8736 /* MenuRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuRow.swift; sourceTree = "<group>"; };
 		E3841EDF2CAD19A8008F0207 /* CourseSection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseSection.swift; sourceTree = "<group>"; };
 		E3841EE02CAD19A8008F0207 /* Course.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
 		E3841EE32CAD1A2D008F0207 /* VCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCard.swift; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				E3841EE72CAD34FC008F0207 /* HomeView.swift */,
 				E353A27E2C995E9D00A6F9CA /* ContentView.swift */,
 				E3841EE92CAD3EAB008F0207 /* SideMenu.swift */,
+				E37F5B6B2CB79FE2008B8736 /* MenuRow.swift */,
 				E3CA07152CA4129700E7BA03 /* Views */,
 				E3CA07162CA412E200E7BA03 /* Styles */,
 				E353A2802C995EA000A6F9CA /* Assets.xcassets */,
@@ -397,6 +400,7 @@
 				E353A2C72C9AE5B700A6F9CA /* SignInView.swift in Sources */,
 				E3841EE12CAD19A8008F0207 /* CourseSection.swift in Sources */,
 				E3CD47002C9C2529009074A5 /* Extensions.swift in Sources */,
+				E37F5B6C2CB79FE2008B8736 /* MenuRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
